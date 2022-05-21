@@ -1,7 +1,7 @@
 ```cpp
 
 /// biblioteca para manipulação de vetores 3d.
-/// verção de comentarios em vec3.h.
+/// verção sem comentarios em vec3.h.
 
 class vec3{
     public:
