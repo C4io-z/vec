@@ -8,7 +8,7 @@ class vec3{
     float x,y,z;
     
     bool s; // 
-    int w;  // vriaveis axtras usadas em outros projetos (opcional)
+    int w;  // vriaveis extras usadas em outros projetos (opcional)
     
     vec3():x(0.0), y(0.0), z(0.0){} 
     vec3(float x_, float y_, float z_) :x(x_), y(y_), z(z_){}
